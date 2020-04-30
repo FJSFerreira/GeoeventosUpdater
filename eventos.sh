@@ -1,7 +1,7 @@
 #!/bin/sh
 
 WORKING_DIR=/tmp
-ICS_URL="https://calendar.google.com/calendar/ical/geoeventospt%40gmail.com/public/basic.ics"
+ICS_URL="https://calendar.google.com/calendar/ical/calendario.eventos.pt%40gmail.com/public/basic.ics"
 LIST_URL="https://project-gc.com/Tools/ComingEvents?country=Portugal&submit=Filter"
 
 cd $WORKING_DIR
